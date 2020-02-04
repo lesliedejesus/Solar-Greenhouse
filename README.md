@@ -1,0 +1,2 @@
+# Solar-Greenhouse
+The Solar Greenhouse project consisted of 12 Lithium-Ion batteries connected in series, transulecent solar panels, Tristar load and charge controllers, and a Orion Jr. BMS. The system was controlled through the python scripts on a Raspberry Pi. Provided is only the main code, which is what I continuously worked on throughout the project. This script will prevent the batteries from overcharging and discharging onto unsafe levels.
